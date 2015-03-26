@@ -1,5 +1,5 @@
-# Reversi
+# Othello
 
-A C++ implementation of Reversi.
+A console C++ implementation of Othello (also known as Reversi).
 
-Allows two players to play Reversi.
+Allows two players to play Othello.
